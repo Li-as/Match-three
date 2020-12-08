@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa7c173c3bd0104ca170b0d9fd5b43e, type: 3}
+  m_Name: ElementsGoalYellowStripedVertical
+  m_EditorClassIdentifier: 
+  GoalAmount: 8
+  Description: Get 8 yellow striped vertical candies
+  _elementSprite: {fileID: 8355983683440713047, guid: dbc3b1f77190d0447b303b70cb4b08d5,
+    type: 3}
